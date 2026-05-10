@@ -1,0 +1,11 @@
+DB_HOST = "localhost"
+DB_NAME = "ecommerce"
+DB_USER = "postgres"
+DB_PASSWORD = "admin123"
+DB_PORT = 5432
+MINIO_ENDPOINT = "localhost:9000"
+MINIO_ACCESS_KEY = "admin"
+MINIO_SECRET_KEY = "password"
+BRONZE_BUCKET = "bronze"
+SILVER_BUCKET = "silver"
+GOLD_BUCKET = "gold"
