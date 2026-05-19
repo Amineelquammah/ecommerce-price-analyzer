@@ -263,7 +263,7 @@ screenshots/governance.png
 
 # 👨‍💻 Author
 
-Amine Elquammah
+Amine Elquammah / Saad Rakba / Azridou Mosaab
 
 ---
 
